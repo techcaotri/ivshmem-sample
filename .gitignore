@@ -1,0 +1,5 @@
+build
+.cache
+*.log
+
+ivshmem_config.h
